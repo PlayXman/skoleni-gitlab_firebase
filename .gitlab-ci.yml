@@ -1,0 +1,25 @@
+image: node:10.18.0
+
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  retry: 0
+  artifacts:
+    paths:
+      - build/
+  script:
+    - npm ci
+    - npm run build
+
+deploy:
+  stage: deploy
+  retry: 0
+  dependencies:
+    - build
+  before_script:
+    - npm i -g firebase-tools
+  script:
+    - firebase deploy --only hosting
