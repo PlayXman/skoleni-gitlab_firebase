@@ -4,4 +4,4 @@
 
 **Firebase:** https://console.firebase.google.com/project/skoleni-gitlab-firebase/hosting
 
-**URL:** https://skoleni-gitlab-firebase.firebase.app
+**URL:** https://skoleni-gitlab-firebase.web.app/
