@@ -1,4 +1,7 @@
-**Git:** https://github.com/PlayXman/skoleni-ssg_hexo
+**Git:** https://github.com/PlayXman/skoleni-gitlab_firebase
 
 **GitLab:** https://gitlab.com/PlayXman/skoleni-gitlab_firebase
 
+**Firebase:** https://console.firebase.google.com/project/skoleni-gitlab-firebase/hosting
+
+**URL:** https://skoleni-gitlab-firebase.firebase.app
