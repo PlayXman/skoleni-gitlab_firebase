@@ -22,5 +22,5 @@ deploy:
   before_script:
     - npm i -g firebase-tools
   script:
-    - firebase locgin:ci $FIREBASE_TOKEN
+    - firebase login:ci $FIREBASE_TOKEN
     - firebase deploy --only hosting
