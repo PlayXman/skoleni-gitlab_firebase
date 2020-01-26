@@ -1,4 +1,4 @@
-**Git:** https://github.com/PlayXman/skoleni-gitlab_firebase
+**Git:** https://github.com/PlayXman/tutorial-gitlab_firebase
 
 **GitLab:** https://gitlab.com/PlayXman/skoleni-gitlab_firebase
 
